@@ -2,6 +2,6 @@
 
 The project was undertaken to create a web-based application for
 procuring goods and services over the Internet. This is a fully
-functional system. It took 2 months to complete this project
+functional system. It took 4 months to complete this project
 
 (HTML,CSS,PHP,JavaScript,MySQLDB)
